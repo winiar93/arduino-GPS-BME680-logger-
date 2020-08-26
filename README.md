@@ -2,9 +2,13 @@
 arduino bme 680 logger on sd card
 
 Need librares:
+
 SD lib
+
 adafriut bme680
+
 TinyGPS
+
 
 Wiring
 
